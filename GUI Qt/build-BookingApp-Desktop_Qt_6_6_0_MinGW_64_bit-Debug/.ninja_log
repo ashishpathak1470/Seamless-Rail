@@ -1,0 +1,14 @@
+# ninja log v5
+5	32	0	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d1b28c3afb2cb8e6
+44	604	7212206126728415	BookingApp_autogen/mocs_compilation.cpp	f3f50225c4ad1cd2
+44	604	7212206126728415	BookingApp_autogen/timestamp	f3f50225c4ad1cd2
+44	604	7212206126728415	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/BookingApp_autogen/timestamp	f3f50225c4ad1cd2
+628	4199	7212206162601257	CMakeFiles/BookingApp.dir/main.cpp.obj	2735116ddc39080a
+44	604	7212206126728415	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/BookingApp_autogen/mocs_compilation.cpp	f3f50225c4ad1cd2
+1802	6478	7211784490260063	CMakeFiles/BookingApp.dir/BookingApp_autogen/mocs_compilation.cpp.obj	33454e32485386a7
+634	3703	7212206157664227	CMakeFiles/BookingApp.dir/mainwindow.cpp.obj	901788d46b7a33b1
+4199	4850	7212206169016298	BookingApp.exe	7c10d11f8aa77930
+6	34	0	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d1b28c3afb2cb8e6
+6	34	0	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d1b28c3afb2cb8e6
+5	30	0	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d1b28c3afb2cb8e6
+11	139	0	C:/Users/abhin/OneDrive/Desktop/OOP Project/build-BookingApp-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d1b28c3afb2cb8e6
